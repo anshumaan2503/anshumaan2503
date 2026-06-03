@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build software, not tutorials.<br><br>MCA student with a strong focus on backend development and full-stack systems.<br>I work primarily with Java + Spring Boot, PostgreSQL, React, and Next.js.<br><br>My projects focus on:<br>- REST API design<br>- Backend architecture and clean domain modeling<br>- Real-world features like authentication, transactions, and Dockerized deployments<br><br>I’m intentionally moving away from “toy projects” and toward production-grade systems.<br><br>Currently learning: system design, backend scalability, and advanced Spring Boot.<br>
+I build software, not tutorials.<br><br>MCA student with a strong focus on backend development and full-stack systems, working primarily with **Java + Spring Boot**, PostgreSQL, React, and Next.js.<br><br>My projects are built around real-world engineering — REST API design, clean backend architecture, authentication systems, transactional workflows, and Dockerized deployments with CI/CD pipelines.<br><br>I'm intentionally moving away from toy projects and toward production-grade, scalable systems that solve actual problems.<br><br>Currently exploring: system design, backend scalability, distributed systems, and advanced Spring Boot patterns.
 
 
 ## 🌐 Socials:
