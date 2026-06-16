@@ -1,5 +1,9 @@
 # 💫 About Me:
-I build software, not tutorials.<br><br>Backend developer with a strong focus on full-stack systems, working primarily with **Java + Spring Boot**, PostgreSQL, React, and Next.js.<br><br>My projects are built around real-world engineering — REST API design, clean backend architecture, authentication systems, transactional workflows, and Dockerized deployments with CI/CD pipelines.<br><br>I'm intentionally moving away from toy projects and toward production-grade, scalable systems that solve actual problems.<br><br>Currently exploring: system design, backend scalability, distributed systems, and advanced Spring Boot patterns.
+I build systems and analyse them end-to-end.
+Backend Engineer + Business Analyst — working across Java + Spring Boot, PostgreSQL, React, and Next.js on the engineering side, and BRD · RTM · Power BI · Agile on the analysis side.
+My work spans two tracks — production-grade backend systems (REST APIs, JWT auth, Docker, CI/CD) and full BA lifecycles (requirements engineering, process mapping, stakeholder engagement, UAT).
+Not just building features — understanding why they're needed, documenting them right, and shipping them properly.
+Currently exploring: system design, distributed systems, advanced Spring Boot patterns, and healthcare + SaaS product analysis.
 
 
 ## 🌐 Socials:
